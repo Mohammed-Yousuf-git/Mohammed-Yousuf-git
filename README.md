@@ -1,3 +1,4 @@
+<img src="github-header-image.png" alt="Responsive Image" style="max-width: 100%; height: auto;">
 <h1 align="center">Hi 👋, I'm MOHAMMED YOUSUF</h1>
 <h3 align="center">A passionate AI/ML ENGINEER</h3>
 
